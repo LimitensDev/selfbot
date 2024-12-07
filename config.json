@@ -1,0 +1,11 @@
+{
+    "token": "ENTER TOKEN",
+    "webhook": "https://discord.com/api/webhooks/1279678839924064390/7yNoKfBpKVlkMdN_VaeBnptQgEF9eUHmRJQrGTuurTWso7b7aP8vCVtKQXv-gEphEdUL",
+    "imgflip_username": "myselfbotusername",
+    "imgflip_password": "ud8:?fs.M*XNA75",
+    "meme_templates": {
+        "drake": "181913649",
+        "change_my_mind": "129242436",
+        "distracted_boyfriend": "112126428"
+    }
+}
